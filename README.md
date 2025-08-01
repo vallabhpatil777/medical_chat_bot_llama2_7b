@@ -14,6 +14,10 @@ This is a conversational AI chatbot powered by a **fine-tuned LLaMA 2–7B** mod
 - **Fine-tuned on**: Domain-specific medical prompts and completions
 - **Frameworks Used**: Hugging Face Transformers, PEFT (LoRA), Gradio
 
+## Snapshot
+<img width="3456" height="2000" alt="image" src="https://github.com/user-attachments/assets/ac567077-6e9f-435c-be40-2db86c578cb4" />
+
+
 ## Setup & Run (Locally)
 
 ```bash
@@ -23,6 +27,4 @@ pip install -r requirements.txt
 python app.py
 
 
-## Snapshot
-<img width="3456" height="2000" alt="image" src="https://github.com/user-attachments/assets/ac567077-6e9f-435c-be40-2db86c578cb4" />
 
