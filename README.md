@@ -24,5 +24,3 @@ python app.py
 
 
 ## Snapshot 
-
-<img src="Medical.png" alt="Medical Chatbot" width="600"/>
