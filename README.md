@@ -23,4 +23,6 @@ pip install -r requirements.txt
 python app.py
 
 
-## Snapshot 
+## Snapshot
+<img width="3456" height="2000" alt="image" src="https://github.com/user-attachments/assets/ac567077-6e9f-435c-be40-2db86c578cb4" />
+
