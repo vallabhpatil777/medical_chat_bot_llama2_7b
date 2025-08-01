@@ -21,3 +21,8 @@ git clone https://github.com/vallabhpatil777/medical-chatbot
 cd medical-chatbot
 pip install -r requirements.txt
 python app.py
+
+
+## Snapshot 
+
+<img src="Medical.png" alt="Medical Chatbot" width="600"/>
